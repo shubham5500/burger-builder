@@ -17,3 +17,12 @@
     height: 100%;
     
 }
+.Logo{
+    height: 60%;
+}
+
+@media(max-width: 499px){
+    .desktopOnly{
+        display: none;
+    }
+}

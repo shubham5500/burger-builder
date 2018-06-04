@@ -49,3 +49,9 @@
         transform: scale(1);
     }
 }
+
+@media(max-width: 500px){
+    .BuildControl{
+        width: 100%;
+    }
+}
